@@ -1,0 +1,59 @@
+#relog {
+	float:right;
+}
+
+input {
+	margin-top:2px;
+}
+
+#room {
+	text-align:center;
+	color:blue;
+	margin-top:-40px;
+	font-size:1.1em;
+	font-style:italic;
+}
+
+.room {
+	float:right;
+}
+
+#messages {
+	width:90%;
+	margin:auto;
+	height:500px;
+	overflow: scroll;
+}
+
+.message {
+	background-color:#D1E2E8;
+}
+
+.msg {
+	text-align:center;
+	font-size:10px;
+}
+
+.imgusr {
+	float:left;
+	display:inline-block;
+	width:45px;
+}
+
+img {
+	width:45px;
+}
+
+.usrname {
+	text-align:center;
+	color:blue;
+	font-style:italic;
+}
+
+.date {
+	padding-left:10px;
+}
+
+.sep {
+	height:15px;
+}
